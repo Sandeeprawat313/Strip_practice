@@ -30,3 +30,16 @@
 /Users/nspiraappcbd/Documents/GitHub/Strip_practice/strip/obj/Debug/net7.0/strip.pdb
 /Users/nspiraappcbd/Documents/GitHub/Strip_practice/strip/obj/Debug/net7.0/strip.genruntimeconfig.cache
 /Users/nspiraappcbd/Documents/GitHub/Strip_practice/strip/obj/Debug/net7.0/ref/strip.dll
+/Users/nspiraappcbd/Documents/GitHub/Strip_practice/strip/bin/Debug/net7.0/Microsoft.Win32.SystemEvents.dll
+/Users/nspiraappcbd/Documents/GitHub/Strip_practice/strip/bin/Debug/net7.0/Newtonsoft.Json.dll
+/Users/nspiraappcbd/Documents/GitHub/Strip_practice/strip/bin/Debug/net7.0/Stripe.net.dll
+/Users/nspiraappcbd/Documents/GitHub/Strip_practice/strip/bin/Debug/net7.0/System.Configuration.ConfigurationManager.dll
+/Users/nspiraappcbd/Documents/GitHub/Strip_practice/strip/bin/Debug/net7.0/System.Drawing.Common.dll
+/Users/nspiraappcbd/Documents/GitHub/Strip_practice/strip/bin/Debug/net7.0/System.Security.Cryptography.ProtectedData.dll
+/Users/nspiraappcbd/Documents/GitHub/Strip_practice/strip/bin/Debug/net7.0/System.Security.Permissions.dll
+/Users/nspiraappcbd/Documents/GitHub/Strip_practice/strip/bin/Debug/net7.0/System.Windows.Extensions.dll
+/Users/nspiraappcbd/Documents/GitHub/Strip_practice/strip/bin/Debug/net7.0/runtimes/win/lib/net6.0/Microsoft.Win32.SystemEvents.dll
+/Users/nspiraappcbd/Documents/GitHub/Strip_practice/strip/bin/Debug/net7.0/runtimes/unix/lib/net6.0/System.Drawing.Common.dll
+/Users/nspiraappcbd/Documents/GitHub/Strip_practice/strip/bin/Debug/net7.0/runtimes/win/lib/net6.0/System.Drawing.Common.dll
+/Users/nspiraappcbd/Documents/GitHub/Strip_practice/strip/bin/Debug/net7.0/runtimes/win/lib/net6.0/System.Security.Cryptography.ProtectedData.dll
+/Users/nspiraappcbd/Documents/GitHub/Strip_practice/strip/bin/Debug/net7.0/runtimes/win/lib/net6.0/System.Windows.Extensions.dll
