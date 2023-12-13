@@ -1,16 +1,25 @@
 {
   "version": 2,
-  "dgSpecHash": "9u3T6Z4JiDZDkf0zuWS6sir6nNf/sAYyYYJjCQiBJ4dSJ7r+WPSzvuvQHJDbLeCbyLoJeDrtorNVFF7JADMQDg==",
+  "dgSpecHash": "lGyXaxsGbDkMLREyXFoQj/n4U4tqnsHqsxOaIL8GBwEvLJRGdhGcZIcbHStvvxaKz4i4TaUnhkC4mPAPgyYE8A==",
   "success": true,
   "projectFilePath": "/Users/nspiraappcbd/Documents/GitHub/Strip_practice/strip/strip.csproj",
   "expectedPackageFiles": [
     "/Users/nspiraappcbd/.nuget/packages/microsoft.aspnetcore.openapi/7.0.10/microsoft.aspnetcore.openapi.7.0.10.nupkg.sha512",
     "/Users/nspiraappcbd/.nuget/packages/microsoft.extensions.apidescription.server/6.0.5/microsoft.extensions.apidescription.server.6.0.5.nupkg.sha512",
     "/Users/nspiraappcbd/.nuget/packages/microsoft.openapi/1.4.3/microsoft.openapi.1.4.3.nupkg.sha512",
+    "/Users/nspiraappcbd/.nuget/packages/microsoft.win32.systemevents/6.0.0/microsoft.win32.systemevents.6.0.0.nupkg.sha512",
+    "/Users/nspiraappcbd/.nuget/packages/newtonsoft.json/12.0.3/newtonsoft.json.12.0.3.nupkg.sha512",
+    "/Users/nspiraappcbd/.nuget/packages/stripe.net/39.124.0/stripe.net.39.124.0.nupkg.sha512",
     "/Users/nspiraappcbd/.nuget/packages/swashbuckle.aspnetcore/6.5.0/swashbuckle.aspnetcore.6.5.0.nupkg.sha512",
     "/Users/nspiraappcbd/.nuget/packages/swashbuckle.aspnetcore.swagger/6.5.0/swashbuckle.aspnetcore.swagger.6.5.0.nupkg.sha512",
     "/Users/nspiraappcbd/.nuget/packages/swashbuckle.aspnetcore.swaggergen/6.5.0/swashbuckle.aspnetcore.swaggergen.6.5.0.nupkg.sha512",
-    "/Users/nspiraappcbd/.nuget/packages/swashbuckle.aspnetcore.swaggerui/6.5.0/swashbuckle.aspnetcore.swaggerui.6.5.0.nupkg.sha512"
+    "/Users/nspiraappcbd/.nuget/packages/swashbuckle.aspnetcore.swaggerui/6.5.0/swashbuckle.aspnetcore.swaggerui.6.5.0.nupkg.sha512",
+    "/Users/nspiraappcbd/.nuget/packages/system.configuration.configurationmanager/6.0.0/system.configuration.configurationmanager.6.0.0.nupkg.sha512",
+    "/Users/nspiraappcbd/.nuget/packages/system.drawing.common/6.0.0/system.drawing.common.6.0.0.nupkg.sha512",
+    "/Users/nspiraappcbd/.nuget/packages/system.security.accesscontrol/6.0.0/system.security.accesscontrol.6.0.0.nupkg.sha512",
+    "/Users/nspiraappcbd/.nuget/packages/system.security.cryptography.protecteddata/6.0.0/system.security.cryptography.protecteddata.6.0.0.nupkg.sha512",
+    "/Users/nspiraappcbd/.nuget/packages/system.security.permissions/6.0.0/system.security.permissions.6.0.0.nupkg.sha512",
+    "/Users/nspiraappcbd/.nuget/packages/system.windows.extensions/6.0.0/system.windows.extensions.6.0.0.nupkg.sha512"
   ],
   "logs": []
 }
