@@ -1,4 +1,5 @@
 @using strip.Model
+@using Microsoft.AspNetCore.Mvc
 @model IEnumerable<ProductEntity>
 
 <br/>
@@ -24,3 +25,11 @@
         </tr>
     }
 </table>
+
+<br>
+
+<p>
+    @* <a asp-action="CheckOut" asp-controller="CheckOut">CheckOut</a> *@
+    <a href="/customroute/CheckOut">CheckOut</a>
+    .
+</p>

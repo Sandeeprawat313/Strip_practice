@@ -19,3 +19,11 @@ build_property._RazorSourceGeneratorDebug =
 [/Users/nspiraappcbd/Documents/GitHub/Strip_practice/strip/Views/Checkout/Index.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3MvQ2hlY2tvdXQvSW5kZXguY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/nspiraappcbd/Documents/GitHub/Strip_practice/strip/Views/Checkout/Login.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvQ2hlY2tvdXQvTG9naW4uY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/nspiraappcbd/Documents/GitHub/Strip_practice/strip/Views/Checkout/Success.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvQ2hlY2tvdXQvU3VjY2Vzcy5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
